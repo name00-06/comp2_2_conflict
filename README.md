@@ -7,7 +7,8 @@ mainブランチとfeatureブランチに対して、テキストとバイナリ
 
 「feature/another_update」ブランチで修正しました
 
-![画像](anotherimage.png)
+![画像](![image](https://github.com/user-attachments/assets/d09d0350-60f3-4b0e-a371-5ee9a08b69fd)
+)
 
 # 進め方
 
